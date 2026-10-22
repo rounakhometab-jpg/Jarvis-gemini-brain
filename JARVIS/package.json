@@ -1,9 +1,0 @@
-{
-  "success": true,
-  "name": "J.A.R.V.I.S.",
-  "status": "online",
-  "provider": "Google Gemini",
-  "configured": true,
-  "model": "gemini-2.5-flash",
-  "features": 30
-}
